@@ -1,5 +1,5 @@
 {
-    "name": "SmartMe/google-play-scraper",
+    "name": "macroali/google-play-scraper",
     "description": "This is a library that allows you to get the public data of an application published on Google Play. ",
     "type": "library",
     "license": "MIT",
