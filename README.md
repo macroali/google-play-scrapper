@@ -1,13 +1,14 @@
 # Google Play Scraper
 
 This is a library that allows you to get the public data of an application published on Google Play.
+author in composer.json
 
 ## Install
 
 Installation is done with composer
 
 ```bash
-composer require  SmartMe/google-play-scraper "~1.0.0"
+composer require  macroali/google-play-scraper "~1.0.0"
 ```
 ## Quick guide
 
